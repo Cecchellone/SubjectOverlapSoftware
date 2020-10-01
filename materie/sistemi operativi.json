@@ -1,0 +1,27 @@
+{
+    "name": "sistemi operativi",
+    "year": 3,
+    "semester": 1,
+    "lessions": [   
+        {
+            "day": 1,
+            "start": 2,
+            "duration": 2
+        },
+        {
+            "day": 2,
+            "start": 2,
+            "duration": 2
+        },
+        {
+            "day": 2,
+            "start": 7,
+            "duration": 2
+        },
+        {
+            "day": 3,
+            "start": 2,
+            "duration": 2
+        }
+    ]
+}

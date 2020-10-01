@@ -1,0 +1,27 @@
+{
+    "name": "reti informatiche",
+    "year": 3,
+    "semester": 1,
+    "lessions": [   
+        {
+            "day": 0,
+            "start": 7,
+            "duration": 2
+        },
+        {
+            "day": 1,
+            "start": 5,
+            "duration": 2
+        },
+        {
+            "day": 2,
+            "start": 5,
+            "duration": 2
+        },
+        {
+            "day": 4,
+            "start": 3,
+            "duration": 2
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "name": "calcolo numerico",
+    "year": 2,
+    "semester": 1,
+    "lessions": [
+        {
+            "day": 1,
+            "start": 0,
+            "duration": 1
+        },
+        {
+            "day": 2,
+            "start": 5,
+            "duration": 2
+        },
+        {
+            "day": 3,
+            "start": 0,
+            "duration": 2
+        }
+    ]
+}

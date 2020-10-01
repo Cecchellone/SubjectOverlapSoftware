@@ -1,0 +1,17 @@
+{
+    "name": "programmazione avanzata",
+    "year": 3,
+    "semester": 1,
+    "lessions": [
+        {
+            "day": 1,
+            "start": 7,
+            "duration": 3
+        },
+        {
+            "day": 3,
+            "start": 7,
+            "duration": 3
+        }
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "name": "elettrotecnica",
+    "year": 2,
+    "semester": 1,
+    "lessions": [
+        {
+            "day": 1,
+            "start": 2,
+            "duration": 2
+        },
+        {
+            "day": 2,
+            "start": 0,
+            "duration": 2
+        }
+    ]
+}
